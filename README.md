@@ -1,10 +1,20 @@
-# Network Device Configuration
+# Network Automation Series
 
-<hr>
+### Telnet, Loopback Address, OSPF Area
+
+This project utilises python programming to develop a basic script which automates the configuration
+of Router interface for remote management as well as OSPF.
+
+---
 
 ![Basic LAN Topology](basic%20LAN.png) </br>
-This script will let the Network administrator configure a router once it has gained access via telnet.
-The following features are configured:
+
+The network topology was designed and simulated in GNS3. </br>
+The automation client is simply PC running Ubuntu through the Network administrator can
+remotely manage Network Devices on the Network. </br>
+For this demo the Router was the target device.
+
+The script lets you configure the following on the router;
 
 - telnet credentials to login
 - Loopback address
