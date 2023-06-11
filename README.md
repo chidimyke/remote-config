@@ -3,7 +3,7 @@
 ### Telnet, Loopback Address, OSPF Area
 
 This project utilises python programming to develop a basic script which automates the configuration
-of Router interface for remote management as well as OSPF.
+of a Router interface for remote management as well as the setup of OSPF.
 
 ---
 
