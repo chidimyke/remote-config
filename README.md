@@ -24,3 +24,5 @@ The script lets you configure the following on the router;
 - telnet credentials to login
 - Loopback address
 - OSPF Areas
+
+Subsequent modifications will be made as the course progresses.
