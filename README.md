@@ -1,13 +1,15 @@
-# Network Automation Series
+<h1 style='text-align:center;'> Network Automation</h1>
 
-### Telnet, Loopback Address, OSPF Area
+### Telnet Script
 
 This project utilises python programming to develop a basic script which automates the configuration
 of a Router interface for remote management as well as OSPF.
 
----
+<hr>
 
-![Basic LAN Topology](basic%20LAN.png) </br>
+<!-- ![Basic LAN Topology](basic%20LAN.png) </br> -->
+
+<div align='center'><img src="basic%20LAN.png" alt="Network-diagram" width='50%' ></div>
 
 The network topology was designed and simulated in GNS3. </br>
 The automation client is a PC running Ubuntu through which the Network administrator can
